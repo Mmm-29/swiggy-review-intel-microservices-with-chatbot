@@ -1,0 +1,8 @@
+python-dotenv
+pandas
+pydantic
+transformers
+scikit-learn
+pymongo
+fastapi
+uvicorn
